@@ -1,3 +1,5 @@
+console.log('start task2');
+
 let secNumber = 10;
 let square = "";
 for (; secNumber <= 20; secNumber += 1) {
@@ -5,4 +7,4 @@ for (; secNumber <= 20; secNumber += 1) {
     console.log(square);
 
 }
-console.log('\n');
+console.log('end task2');
