@@ -5,3 +5,4 @@ for (; secNumber <= 20; secNumber += 1) {
     console.log(square);
 
 }
+console.log('\n');
