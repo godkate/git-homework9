@@ -1,14 +1,8 @@
-//const d = document.createElement('div');
-let str = "";
+let task1 = "";
 let firstNumber = 10
 for (; firstNumber <= 20; firstNumber += 1) {
-    str += `${firstNumber}, `;
-
-    //const elem = document.createElement('div');
-    //elem.innerText = `result: ${str}`;
-    //d.append(elem);
-
+    task1 += `${firstNumber}, `;
 }
-console.log(str);
-document.getElementById("str").innerHTML = str;
-//document.documentElement.append(d);
+
+document.getElementById("task1").innerHTML = task1;
+
