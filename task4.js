@@ -1,3 +1,5 @@
+//Знайти суму всіх цілих чисел від 1 до 15
+
 console.log('start task4');
 let forthNum = 1;
 let sum = 0;

@@ -1,3 +1,5 @@
+//Вивести квадрати чисел від 10 до 20
+
 console.log('start task2');
 
 let secNumber = 10;

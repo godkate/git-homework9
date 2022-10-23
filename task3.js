@@ -1,3 +1,5 @@
+//Вивести таблицю множення на 7
+
 console.log('start task3');
 let thirdNum = 1;
 let multiSeven = "";

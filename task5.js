@@ -1,3 +1,5 @@
+//Знайти добуток усіх цілих чисел від 15 до 35
+
 console.log('start task5');
 let fifthNum = 15
 let multiAll = 1;

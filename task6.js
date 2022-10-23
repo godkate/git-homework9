@@ -1,3 +1,5 @@
+//Знайти середнє арифметичне всіх цілих чисел від 1 до 500
+
 console.log('start task6');
 let sixthNum = 1;
 let sumAll = 0;
